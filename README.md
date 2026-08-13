@@ -8,10 +8,10 @@
 พัฒนาโปรเจกต์ แอปเดลิเวอรี่ซักผ้า wash me
 
 🛠️ ทักษะและความเชี่ยวชาญ (Technical Skills)
-Languages: JavaScript, Python, HTML/CSS
-Frameworks & Libraries: React, CSS, Node.js
-Tools & Platforms: Git, GitHub, VS Code, Figma
-Databases: MySQL, PostgreSQL, superbase
+**Languages**: JavaScript, Python, HTML/CSS
+**Frameworks & Libraries**: React, CSS, Node.js
+**Tools & Platforms**: Git, GitHub, VS Code, Figma
+**Databases**: MySQL, PostgreSQL, superbase
 
 📌 โปรเจกต์ที่โดดเด่น (Featured Projects)
 [ชื่อโปรเจกต์ที่ 1](URL Repo): คำอธิบายระบบสั้นๆ และเทคโนโลยีหลักที่ใช้
