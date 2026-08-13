@@ -9,7 +9,7 @@
 
 🛠️ ทักษะและความเชี่ยวชาญ (Technical Skills)
 Languages: JavaScript, Python, HTML/CSS
-Frameworks & Libraries: React, Tailwind CSS, Node.js
+Frameworks & Libraries: React, CSS, Node.js
 Tools & Platforms: Git, GitHub, VS Code, Figma
 Databases: MySQL, PostgreSQL, superbase
 
